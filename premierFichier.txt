@@ -1,2 +1,1 @@
 J'apprends Git et GitHub
-Je decouvre la gestionsde versions.
