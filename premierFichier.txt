@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 J'apprends Git et GitHub
+=======
+J'apprends Git et Github
+ Je découvre la commande git pull
+>>>>>>> e228225ef0047e5754d4846187482dd5ee62c470
