@@ -1,2 +1,2 @@
 J'apprends Git et Github
- Je découvre la gestion de versions.
+ Je découvre la commande git pull
